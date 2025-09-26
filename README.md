@@ -1,2 +1,2 @@
 # PortfolioWebPage
-exemple portfolio webpage
+example portfolio webpage
