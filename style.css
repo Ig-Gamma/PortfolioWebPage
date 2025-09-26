@@ -109,8 +109,9 @@ h2 {
 }
 
 .profile_image {
-  width: 450px;
-  height: fit-content;
+  width: 550px;
+  height: 100%;
+  box-sizing: border-box; 
   vertical-align: middle;
   margin: 5px;
   border: 100px solid white;
